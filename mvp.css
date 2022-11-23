@@ -3,7 +3,8 @@
 .main {
     position: relative;
     height: 350px;
-    right: 150px;
+    right: 163px;
+    top: -30px;
 }
 
 .snow-box{
@@ -110,7 +111,7 @@ main {
 header {
     margin: 0 auto;
     max-width: var(--width-content);
-    padding: 1rem 0.5rem;
+    padding: 1rem 0rem;
 }
 
 footer{
