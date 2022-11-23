@@ -6,6 +6,20 @@
     right: 150px;
 }
 
+.snow-box{
+    position: relative;
+    z-index: 99;
+}
+
+.snow{
+    width: 300px; 
+    height: 500px; 
+    object-fit: cover;
+    position: absolute;
+    right:30px;
+    top: 50px;
+}
+
 .main-img {
     position: absolute;
     
@@ -313,8 +327,8 @@ sup {
 a {
     color: var(--color-link);
     display: inline-block;
-    font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
+    
 }
 
 a:active {
