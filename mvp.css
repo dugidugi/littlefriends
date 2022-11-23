@@ -20,6 +20,9 @@ p, li{
     font-weight: 400;
 }
 
+b {
+    font-weight: 600;
+}
 article {
     padding-bottom: 2em;
 }
@@ -270,6 +273,10 @@ p {
     margin: 0.75rem 0;
     padding: 0;
     width: 100%;
+}
+
+p b {
+
 }
 
 pre {
