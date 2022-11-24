@@ -41,6 +41,7 @@ b {
 }
 article {
     padding-bottom: 2em;
+    word-break: keep-all;
 }
 
 
